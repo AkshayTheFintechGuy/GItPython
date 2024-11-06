@@ -7,5 +7,6 @@
 # * Multiplication 3 * 5 15
 # - Subtraction 5 - 2 3
 # + Addition 2 + 2 4
-mv = memoryview(bytearray(5))
-print(mv)
+color =  ['red','green','white']
+index_colors = list(enumerate(color))
+print(index_colors)
